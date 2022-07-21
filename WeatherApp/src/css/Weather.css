@@ -1,0 +1,26 @@
+  .text{
+    color: white;
+  }
+
+  .textBox{
+    width:500px;
+    height:300px;
+    position:absolute;
+    left:50%;
+    top:35%;
+    margin-left:-250px;
+    margin-top:-150px;
+    text-align: center;
+  }
+
+  .title{
+    font-size: 60pt;
+    color: white;
+  }
+
+  .link{
+    text-decoration: none;
+    font-size: 30pt;
+    margin-right: 20px;
+    border: black;
+  }
